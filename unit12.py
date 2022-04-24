@@ -1,11 +1,3 @@
-#######################################################
-# Name:       Michael Cunningham
-# Class:      CIS-2531-VCM01
-# Assignment: Homework 12
-# Instructor: Mohammad Morovati
-# Purpose:    recursion
-######################################################
-
 #setlimit
 import sys
 sys.setrecursionlimit(5000)
